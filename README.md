@@ -1,6 +1,6 @@
-# JSPlaygrounds
+# Javascript playground
 
-[Show me the demo!](https://stephengrider.github.io/JSPlaygrounds/)
+[Show me the demo!](https://fpradomacat.github.io/js-playground/)
 
 ### Running Locally
 
